@@ -1,6 +1,6 @@
 # Learn It - E-Learning Website
 
-Learn It is an innovative e-learning website created during a college web hackathon. It provides users with a platform to access various courses and learning materials in an engaging and user-friendly interface. The website is built using HTML, CSS, Tailwind CSS, and JavaScript, leveraging design skills and innovative thinking to deliver a beautiful and intuitive learning experience.
+Learn It is an innovative e-learning website created during a college web hackathon. It provides users with a platform to access various courses and learning materials in an engaging and user-friendly interface. The website is built using HTML, CSS, Tailwind CSS, JavaScript, GSAP (GreenSock Animation Platform), leveraging design skills and innovative thinking to deliver a beautiful and intuitive learning experience.
 
 ## Features
 
@@ -17,6 +17,7 @@ Learn It is an innovative e-learning website created during a college web hackat
 - CSS
 - Tailwind CSS
 - JavaScript
+- GSAP(GreenSock Animation Platform)
 
 ## Installation
 
@@ -42,8 +43,7 @@ Contributions are welcome! If you'd like to contribute to Learn It, feel free to
 
 ## Credits
 
-- **Your Name**: Lead Developer & Designer
-- **Team Members**: [List team members and their contributions]
+- **AMIT KUMAR**: Lead Developer & Designer
 
 ## Contact
 
