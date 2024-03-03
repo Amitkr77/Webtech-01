@@ -2,6 +2,9 @@
 
 Learn It is an innovative e-learning website created during a college web hackathon. It provides users with a platform to access various courses and learning materials in an engaging and user-friendly interface. The website is built using HTML, CSS, Tailwind CSS, JavaScript, GSAP (GreenSock Animation Platform), leveraging design skills and innovative thinking to deliver a beautiful and intuitive learning experience.
 
+## Demo
+[View Demo](https://legendary-learnig.netlify.app/) <!-- Add your demo link here -->
+
 ## Features
 
 - **Course Catalog**: Browse through a wide range of courses available on different topics.
