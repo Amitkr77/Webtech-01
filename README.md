@@ -27,7 +27,7 @@ Learn It is an innovative e-learning website created during a college web hackat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/learn-it.git
+   git clone https://github.com/Amitkr77/Webtech-01.git
    ```
 
 2. Open the `index.html` file in your preferred web browser to explore the Learn It website.
